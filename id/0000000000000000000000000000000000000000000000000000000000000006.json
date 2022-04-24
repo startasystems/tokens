@@ -1,0 +1,12 @@
+{
+	"name": "Starta Domain Names (DID)",
+	"description": "Create **decentralized websites** with **NFT domain names**.\n\nNFT domains are **owned** and not leased. The domain is **stored in your wallet** and managed only by you. Buy the domain with a **one-time registration fee** and never worry about renewals again. **No renewal fees ever**.\n\nAlso use as **decentralized digital identities** for the world.\n\nIt is in the development process and the whitelist is not defined yet.",
+	"animation_url": "https://tokens.starta.systems/id/6.gif",
+	"image": "https://tokens.starta.systems/id/6.jpg",
+	"attributes": [
+		{
+			"trait_type": "type",
+			"value": "DID / DOMAIN"
+		}
+	]
+}

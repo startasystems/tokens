@@ -1,0 +1,12 @@
+{
+	"name": "Start[001] Hotsite Builder",
+	"description": "This is our first **decentralized startup template builder** (fully responsive), built on **Ethereum**, **Javascript**, **HTML5**, **CSS3**, **jQuery** and **Bootstrap**.\n\nThe builder is **stored in your wallet** and managed only by you. **Build hundreds of decentralized websites with just one builder**.\n\nIt is in the process of finalizing development and the whitelist is not yet defined.'",
+	"animation_url": "https://tokens.starta.systems/id/7.gif",
+	"image": "https://tokens.starta.systems/id/7.jpg",
+	"attributes": [
+		{
+			"trait_type": "type",
+			"value": "Template Builder"
+		}
+	]
+}

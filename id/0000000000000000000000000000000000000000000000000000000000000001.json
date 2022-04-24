@@ -1,8 +1,8 @@
 {
 	"name": "Diamond Membership",
-	"description": "Becoming a **Diamond Member** suggests your very **esteemed presence** in our **Exclusive Members Club**. **Maximum supply is limited in the contract to only 600**. **This NFT** can be linked to your account on our **Starta Platform** to **unlock perks**:\n\n## Diamond Membership Advantages\n\n- Full access to all developed / future products\n- Full access to all developed / future website builders\n- Exclusive ID on organization\n- Exclusive version of the Starta Systems website and app\n- Exclusive members area with extra features\n- Early access to token distribution events\n- Early access to all future projects",
-	"animation_url": "https://startasystems.github.io/tokens/id/1.gif",
-	"image": "https://startasystems.github.io/tokens/id/1.jpg",
+	"description": "Becoming a **Diamond Member** suggests your very **esteemed presence** in our **Exclusive Members Club**. **Maximum supply is limited in the contract to only 600**. **This NFT** can be linked to your account on our **Starta Platform** to **unlock perks**:\n\n## Diamond Membership Advantages\n\n- Full access to all developed / future products\n- Full access to all developed / future website builders\n- Exclusive Decentralized Identity on organization\n- Exclusive version of the Starta Systems website and app\n- Exclusive members area with extra features\n- Early access to token distribution events\n- Early access to all future projects",
+	"animation_url": "https://tokens.starta.systems/id/1.gif",
+	"image": "https://tokens.starta.systems/id/1.jpg",
 	"attributes": [
 		{
 			"trait_type": "type",
@@ -13,14 +13,23 @@
 			"value": "Diamond"
 		},
 		{
-			"display_type": "boost_number",
-			"trait_type": "Access Level",
-			"value": 80
+			"trait_type": "level",
+			"value": 3
 		},
 		{
-			"display_type": "number",
-			"trait_type": "Position",
-			"value": 2
+			"display_type": "boost_percentage",
+			"trait_type": "Projects Access Level",
+			"value": 100
+		},
+		{
+			"display_type": "boost_percentage",
+			"trait_type": "Builders Access Level",
+			"value": 100
+		},
+		{
+			"display_type": "boost_percentage",
+			"trait_type": "Exclusive Profile",
+			"value": 100
 		}
 	]
 }

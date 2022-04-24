@@ -1,0 +1,11 @@
+{
+    "version": "0.0.3",
+    "name": "Starta Systems",
+    "description": "Hello, welcome 👋 to y/our Software House!\n\nWe are developing products and services for the new boundary of the internet. Start your NFT journey with us. We created an **Exclusive Members Club** to demonstrate the power of ownership on the web3. As a member you will have an esteemed presence in our **Metaverse**.\n\nEach NFT in our collection can be linked to your account on our websites to **unlock exclusive perks**.\n\nOur first NFTs offer early access to our launches, token distribution events and we limit founder membership to just **300**.\n\nAs a **founder member**, you will not only be part of the Exclusive Club, but you will also be able to **actively participate** in the direction of our projects.",
+    "etherscan_link": "https://rinkeby.etherscan.io/address/0x66651a60a820ad338aad38889a07fad3b89bb1c8",
+    "fee_recipient": "0xC09D8C6E8557D99c4367A5af0df0457efbafad9b",
+    "image": "https://tokens.starta.systems/contract/icon.png",
+    "external_link": "https://starta.systems",
+    "seller_fee_basis_points": 750,
+    "network": "rinkeby"
+}

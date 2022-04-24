@@ -1,0 +1,25 @@
+{
+	"name": "Gold Membership",
+	"description": "Becoming a **Gold Member** suggests your very **esteemed presence** in our **Exclusive Members Club**. **Maximum supply is limited in the contract to 1200**. **This NFT** can be linked to your account on our **Starta Platform** to **unlock perks**:\n\n## Gold Membership Advantages\n\n- Exclusive Decentralized Identity on organization\n- Exclusive version of the Starta Systems website and app\n- Exclusive members area with extra features\n- Early access to token distribution events\n- Early access to all future projects",
+	"animation_url": "https://tokens.starta.systems/id/3.gif",
+	"image": "https://tokens.starta.systems/id/3.jpg",
+	"attributes": [
+		{
+			"trait_type": "type",
+			"value": "Exclusive Club"
+		},
+		{
+			"trait_type": "category",
+			"value": "Gold"
+		},
+		{
+			"trait_type": "level",
+			"value": 1
+		},
+		{
+			"display_type": "boost_percentage",
+			"trait_type": "Exclusive Profile",
+			"value": 100
+		}
+	]
+}
