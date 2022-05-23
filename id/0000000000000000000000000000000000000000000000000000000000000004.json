@@ -1,6 +1,6 @@
 {
-	"name": "Starta Token (STK)",
-	"description": "This is our **Utility Token**.\n\nThe **STK Token** is the fuel of the **Starta Platform** and is an evolution of our **Exclusive Members Club**. **Maximum supply is limited in the contract to 300,000¹⁸**.\n\nIt will follow the **ERC20 standard** and is in the process of finalizing development and the whitelist is not yet defined.",
+	"name": "STARTA TOKEN (STK)",
+	"description": "This is our **Utility & Governance Token**. The **STK** is the fuel of the **Starta Platform** and is an evolution of our **Exclusive Members Club**. Holders will be able to use it in **purchases**, **games**, **proposals** and **voting** on our platform. **Maximum supply is limited in the contract to 1,000,000,000**.\n\nIt will follow the **ERC1115 Standard** and is in the process of finalizing development and the whitelist is not yet defined.",
 	"animation_url": "https://tokens.starta.systems/id/4.gif",
 	"image": "https://tokens.starta.systems/id/4.jpg",
 	"attributes": [
