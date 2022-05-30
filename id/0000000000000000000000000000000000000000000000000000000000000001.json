@@ -5,15 +5,15 @@
 	"image": "https://tokens.starta.systems/id/1.jpg",
 	"attributes": [
 		{
-			"trait_type": "type",
+			"trait_type": "Type",
 			"value": "Exclusive Club"
 		},
 		{
-			"trait_type": "category",
+			"trait_type": "Category",
 			"value": "Diamond"
 		},
 		{
-			"trait_type": "level",
+			"trait_type": "Level",
 			"value": 3
 		},
 		{

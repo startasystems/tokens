@@ -1,0 +1,12 @@
+{
+	"name": "STARTA PARTNERS",
+	"description": "This is our **Partnership Utility Token**. The holders of this token are **our official partners** in **business**, **advertising**, **mentoring** and can also be **youtubers**, **brands**, **promoters** or **evangelists**. In addition to a **public way to validate our official partners**, holders have access to **exclusive areas** on our **Starta Platform**.",
+	"animation_url": "https://tokens.starta.systems/id/8.gif",
+	"image": "https://tokens.starta.systems/id/8.jpg",
+	"attributes": [
+		{
+			"trait_type": "Type",
+			"value": "Utility Token"
+		}
+	]
+}
