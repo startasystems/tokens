@@ -5,8 +5,8 @@
 	"image": "https://tokens.starta.systems/id/5.jpg",
 	"attributes": [
 		{
-			"trait_type": "Type",
-			"value": "Wallet App"
+			"trait_type": "Category",
+			"value": "Applications"
 		}
 	]
 }

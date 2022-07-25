@@ -5,16 +5,31 @@
 	"image": "https://tokens.starta.systems/id/3.jpg",
 	"attributes": [
 		{
-			"trait_type": "Type",
-			"value": "Exclusive Club"
+			"trait_type": "Category",
+			"value": "Members Club"
 		},
 		{
-			"trait_type": "Category",
+			"trait_type": "Members Type",
 			"value": "Gold"
 		},
 		{
-			"trait_type": "Level",
+			"trait_type": "Members Access Level",
 			"value": 1
+		},
+		{
+			"display_type": "boost_percentage",
+			"trait_type": "Right to Vote",
+			"value": 0
+		},
+		{
+			"display_type": "boost_percentage",
+			"trait_type": "Projects Access Level",
+			"value": 0
+		},
+		{
+			"display_type": "boost_percentage",
+			"trait_type": "Builders Access Level",
+			"value": 0
 		},
 		{
 			"display_type": "boost_percentage",

@@ -5,7 +5,7 @@
 	"image": "https://tokens.starta.systems/id/4.jpg",
 	"attributes": [
 		{
-			"trait_type": "Type",
+			"trait_type": "Category",
 			"value": "Utility Token"
 		}
 	]

@@ -5,8 +5,8 @@
 	"image": "https://tokens.starta.systems/id/7.jpg",
 	"attributes": [
 		{
-			"trait_type": "Type",
-			"value": "Template Builder"
+			"trait_type": "Category",
+			"value": "Decentralized Websites"
 		}
 	]
 }

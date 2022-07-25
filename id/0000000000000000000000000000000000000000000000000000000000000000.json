@@ -5,15 +5,15 @@
 	"image": "https://tokens.starta.systems/id/0.jpg",
 	"attributes": [
 		{
-			"trait_type": "Type",
-			"value": "Exclusive Club"
+			"trait_type": "Category",
+			"value": "Members Club"
 		},
 		{
-			"trait_type": "Category",
+			"trait_type": "Members Type",
 			"value": "Founder"
 		},
 		{
-			"trait_type": "Level",
+			"trait_type": "Members Access Level",
 			"value": 4
 		},
 		{
